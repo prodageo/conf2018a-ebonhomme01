@@ -2,9 +2,9 @@
 
 ## Cartouche d'identification
 
- - Manifestation : CodeursEnSeine 2017
- - Lieu : Université de Rouen - site du Madrillet
- - Conférence : ...
+ - Manifestation : CodeursEnSeine 2019
+ - Lieu : Kindarena Rouen - adresse
+ - Conférence : Comment j'ai arrêté les boucles for
  - Horaire de la conférence : ...
  - Durée de la conférence : ...
  - Conférencier(s) :
@@ -13,7 +13,7 @@
  - Audience : ...
  - Auteur du billet : ...
  - Mots-clés
- - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
+ - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash]()
    - quelques sources : https://unsplash.com, https://xkcd.com/, http://dev.to/rly, ...
 
 ## Support
