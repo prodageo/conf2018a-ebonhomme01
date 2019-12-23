@@ -3,12 +3,14 @@
 ## Cartouche d'identification
 
  - Manifestation : CodeursEnSeine 2019
- - Lieu : Kindarena Rouen - adresse
+ - Lieu : Kindarena Rouen -  40 Rue de Lillebonne, 76000 Rouen
  - Conférence : Comment j'ai arrêté les boucles for
  - Horaire de la conférence : 15h40 à 16h
  - Durée de la conférence : 20 minutes
  - Conférencier(s) :
    - Ghislain MAHIEUX [Twitter](https://twitter.com/GhislainMahieux)
+<img src="imgConf.jpg" width="250">
+
  - Audience : 60 personnes
  - Auteur du billet : Emma Bonhomme
  - Mots-clés :
@@ -17,8 +19,6 @@
    - Boucles
    - Programmation
    - Code
- - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash]()
-   - quelques sources : https://unsplash.com, https://xkcd.com/, http://dev.to/rly, ...
 
 ## Support
  - [Lien vers le support présenté en conférence](https://docs.google.com/presentation/d/1zOQ2OD_J7VpqobgA4OhXW7yqw3S7_HCFoh1roEiotuY/edit#slide=id.g65a1ebabba_1_2335)
@@ -40,6 +40,7 @@ Un langage qu'il faut apprendre prendre en main, aux concepts abstraits, avec un
   - Monoid
   - Foldable
   - etc...
+  
 L'utilisation d'un langage fonctionnel pour développer ne l'attirait donc pas du tout.  
 
 C'est son arrivée dans une nouvelle équipe qui lui a fait changer d'avis. Il explique sa transition du Java aux langages fonctionnels d'abord avec Kotlin et ensuite avec Arrow, mais aussi ce qui a motivé cette transition.  
